@@ -2,6 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 import styled from "@emotion/styled"
+import peca from "../images/peca_image.svg"
 
 const Container = styled.div`
   text-align: center;
@@ -42,6 +43,7 @@ const LandingBio = () => (
     render={(data) => (
       <OuterContainer>
         <Container>
+          <img src={peca} alt="peca"></img>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description>{data.site.siteMetadata.subtitle}</Description>
         </Container>
