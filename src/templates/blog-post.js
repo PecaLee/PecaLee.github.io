@@ -13,36 +13,21 @@ const Content = styled.div`
 const MarkedHeader = styled.h1`
   display: inline;
   border-radius: 1em 0 1em 0;
-  background-image: linear-gradient(
-    -100deg,
-    rgba(255, 250, 150, 0.15),
-    rgba(255, 250, 150, 0.8) 100%,
-    rgba(255, 250, 150, 0.25)
-  );
+  color: rgb(77, 100, 150);
 `
 
 const HeaderDate = styled.h3`
   margin-top: 10px;
   color: #606060;
+  color: rgb(77, 100, 150);
 `
 
 // STYLE THE TAGS INSIDE THE MARKDOWN HERE
 const MarkdownContent = styled.div`
   a {
-    text-decoration: none;
+    text-decoration: underline;
     position: relative;
-
-    background-image: linear-gradient(
-      rgba(255, 250, 150, 0.8),
-      rgba(255, 250, 150, 0.8)
-    );
-    background-repeat: no-repeat;
-    background-size: 100% 0.2em;
-    background-position: 0 88%;
-    transition: background-size 0.25s ease-in;
-    &:hover {
-      background-size: 100% 88%;
-    }
+    color: rgb(77, 100, 150);
   }
 
   a > code:hover {

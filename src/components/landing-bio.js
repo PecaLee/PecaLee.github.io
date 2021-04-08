@@ -17,6 +17,7 @@ const OuterContainer = styled.div`
 
 const Description = styled.p`
   padding: 0;
+  margin-top: 1rem;
   margin-bottom: 1rem;
   font-size: 1.4rem;
 `
@@ -38,7 +39,7 @@ const LandingBio = () => (
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <OuterContainer>
         <Container>
           <NameHeader>{data.site.siteMetadata.title}</NameHeader>
