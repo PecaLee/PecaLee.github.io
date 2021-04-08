@@ -76,8 +76,8 @@ const Header = () => (
   <SiteHeader>
     <Content>
       <p>
-        <HomeLink to="../TIL/">Today I</HomeLink>
-        <NavLink to="../TIL/blog">____</NavLink>
+        <HomeLink to="/">Today I</HomeLink>
+        <NavLink to="/blog/">____</NavLink>
       </p>
     </Content>
   </SiteHeader>
