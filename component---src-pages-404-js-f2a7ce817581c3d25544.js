@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{w2l6:function(t,n,b){"use strict";b.r(n);b("q1tI");var e=b("Bl7J"),l=b("vrFN"),u=b("qKvR");n.default=function(){return Object(u.b)(e.a,null,Object(u.b)(l.a,{title:"404: Not found"}),Object(u.b)("h1",null,"페이지를 찾을 수 없다네요."),Object(u.b)("p",null,"우야겠누... 별 수 없지..."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-f2a7ce817581c3d25544.js.map
