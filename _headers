@@ -57,6 +57,15 @@
   Link: </component---src-templates-blog-post-js-285f4d6af511d56222dd.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/example-title/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/til-210415
+  Link: </webpack-runtime-eb4c98458a38e07108cd.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
+  Link: </app-2ad878feda851d366f4c.js>; rel=preload; as=script
+  Link: </commons-68e0ca79f1ed21ac53b7.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-285f4d6af511d56222dd.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/til-210415/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/til-210411
   Link: </webpack-runtime-eb4c98458a38e07108cd.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -75,15 +84,6 @@
   Link: </component---src-templates-blog-post-js-285f4d6af511d56222dd.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/til-210414/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/til-210415
-  Link: </webpack-runtime-eb4c98458a38e07108cd.js>; rel=preload; as=script
-  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </framework-5fc6169171e885c3b522.js>; rel=preload; as=script
-  Link: </app-2ad878feda851d366f4c.js>; rel=preload; as=script
-  Link: </commons-68e0ca79f1ed21ac53b7.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-285f4d6af511d56222dd.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/til-210415/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-eb4c98458a38e07108cd.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
