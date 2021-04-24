@@ -1,7 +1,7 @@
 ---
 title: "마크다운 참조"
 date: "2021-04-08"
-draft: false
+draft: true
 path: "/blog/example-title"
 ---
 
